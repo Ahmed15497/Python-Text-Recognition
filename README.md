@@ -6,7 +6,9 @@ This project aims for text recgnition using [EasyOCR](https://github.com/JaidedA
 The dataset is a bunch of screenshots from Iphone from music sets.
 
 Input: The path of the folder containing the images.
+
 Logic: For each image inside the folder extract the title, artist and the current time.
+
 Output: A csv file contains (file name, date taken, title, artist, current time)
 
 you can run the program from command shell using this command : 
