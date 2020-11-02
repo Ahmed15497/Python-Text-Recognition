@@ -10,5 +10,6 @@ Logic: For each image inside the folder extract the title, artist and the curren
 Output: A csv file contains (file name, date taken, title, artist, current time)
 
 you can run the program from command shell using this command : 
+
 python screenshots_OCR.py ./put_your_folder_path_here
 
